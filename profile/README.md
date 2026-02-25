@@ -1,4 +1,4 @@
-# The Filipino Nurses Association-Nordic (FiNAN)
+# Filipino Nurses Association-Nordic (FiNAN)
 
 Welcome to the official GitHub organization for **FiNAN**. We are a registered non-profit organization dedicated to connecting, supporting, and advocating for Filipino nurses across the Nordic region.
 
