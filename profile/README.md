@@ -5,7 +5,7 @@ Welcome to the official GitHub organization for **FiNAN**. We are a registered n
 ## About Us
 
 FiNAN serves as a professional bridge for Filipino nurses working in:
-🇩🇰 Denmark | 🇫🇴 Faroe Islands | 🇫🇮 Finland (including Åland) | 🇬🇱 Greenland | 🇮🇸 Iceland | 🇳🇴 Norway | 🇸🇪 Sweden
+🇩🇰 Denmark, 🇫🇴 Faroe Islands, 🇫🇮 Finland (including 🇦🇽 Åland), 🇬🇱 Greenland, 🇮🇸 Iceland, 🇳🇴 Norway, 🇸🇪 Sweden
 
 Our mission focuses on providing essential guidance for:
 - **Licensing & Accreditation**: Navigating the regulatory requirements in each Nordic country.
@@ -27,6 +27,8 @@ FiNAN is a legally registered non-profit entity across the Nordic Region:
 
 - **Website**: [finan.eu.com](https://finan.eu.com)
 - **Email**: [info@finan.eu.com](mailto:info@finan.eu.com)
+- **Facebook**: [facebook.com/FNANordic](https://www.facebook.com/FNANordic)
+- **LinkedIn**: [linkedin.com/fnanordic](https://www.linkedin.com/company/fnanordic/)
 
 ---
 *Mabuhay! Empowering Filipino Nurses in the North.*
